@@ -1,0 +1,7 @@
+enum class type {
+	KEYWORD,
+	SYMBOL,
+	IDENTIFIER,
+	INT_CONST,
+	STRING_CONST
+};
